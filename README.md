@@ -5,7 +5,7 @@
 
 ## Features
 
-- Counts Individual Teams Score
+- Counts Individual Teams Score In BasketBall Game
 - Fullscreen
 
 
@@ -54,7 +54,6 @@ If you have any feedback, please reach out to us at jangidparas826@gmail.com
 
 ## Lessons Learned
 
-It was very difficult for me to create customAdapter for list veiw as a begineer in android development. I overcamed this issue using the official documentation of android and StackOverflow.
 
 
 ## Tech Stack
